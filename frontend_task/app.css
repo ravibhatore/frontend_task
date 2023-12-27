@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:rgb(244, 239, 239);
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+select {
+    margin-bottom: 20px;
+    padding: 3px 4px 3px 0px;
+    background-color: rgb(236 243 240);;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    border: 1px solid #a1a1a1;
+    padding: 10px;
+    border-radius: 5px;
+}
